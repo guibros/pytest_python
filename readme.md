@@ -1,7 +1,4 @@
-Projet pytest sur system expert avec experta
+# Unit testing and Code Typing
 
+System Expert project randomly chosen. The unit tests, doctest and pytest validate classes, constructors, attributes, and methods. The code is also typed according to PEP 484 and tested with mypy.
 
-Dezipper le fichier Party_Planning_Expert_System-master 
-Deployer dans environnement python version 3.7 ou ulterieur
-
-Demarrer fichier main.py pour faire rouler le programme Party_Planner.py
